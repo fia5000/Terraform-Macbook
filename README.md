@@ -25,3 +25,16 @@
 * Evernote - with cronofy to sync reminders
  
 * Simple Diagrams
+
+
+
+---
+###To Script With Ansible:
+
+####Command Line Setup:
+1. Install iTerm
+2. Install HomeBrew
+3. Install oh-my-zsh
+4. Install antigen
+
+ZSH 
