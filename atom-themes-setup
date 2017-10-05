@@ -1,4 +1,4 @@
-apm-install \
+apm install \
 apex-syntax \
 apex-ui \
 ariake-dark-syntax \
