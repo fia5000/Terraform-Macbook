@@ -1,0 +1,15 @@
+apm-install \
+apex-syntax \
+apex-ui \
+ariake-dark-syntax \
+atom-material-syntax \
+atom-monokai \
+brogrammer-syntax \
+brogrammer-ui \
+cake-syntax \
+dash-ui \
+firewatch-syntax \
+nord-atom-syntax \
+nord-atom-ui \
+yeti-syntax \
+yeti-ui
