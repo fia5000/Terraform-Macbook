@@ -1,0 +1,12 @@
+pip install \
+hvac \
+ansible \
+ansible-modules-hashivault \
+ansible-roles-graph \
+ansible-lint \
+ansible-cmdb \
+ansible-docgeneration \
+sphinxcontrib_ansibleautodoc \
+ansible-review \
+ansible-tower-cli \
+
