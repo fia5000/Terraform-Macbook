@@ -5,7 +5,7 @@ ansible-modules-hashivault \
 ansible-roles-graph \
 ansible-lint \
 ansible-cmdb \
-ansible-docgeneration \
+ansible-docgenerator \
 sphinxcontrib_ansibleautodoc \
 ansible-review \
 ansible-tower-cli \
