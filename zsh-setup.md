@@ -19,10 +19,11 @@ cd fonts \
 brew install autojump
 
 # Install Suggestions
+```
 mkdir ~/.zsh/zsh-autosuggestions
 cd ~/.zsh/zsh-autosuggestions
 git clone git://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
-
+```
 # ~/.zshrc
 ```
 source /Users/me/antigen.zsh
