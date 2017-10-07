@@ -48,7 +48,8 @@ antigen bundle osx
 antigen bundle web-search
 antigen bundle z
 antigen bundle zsh-users/zsh-syntax-highlighting
-
+antigen bundle MichaelAquilina/zsh-you-should-use
+antigen bundle unixorn/warhol.plugin.zsh
 antigen bundle zsh-users/zsh-history-substring-search ./zsh-history-substring-search.zsh
 
 # Load the theme.
@@ -60,3 +61,10 @@ antigen apply
 source /Users/me/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 ```
+
+# ZSH THemes
+antigen theme eendroroy/alien alien
+https://github.com/eendroroy/alien
+
+# Install Hacck-Nerd Fonts
+brew cask install font-hack-nerd-font
