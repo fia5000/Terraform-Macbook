@@ -12,3 +12,4 @@ ansible-tower-cli \
 
 
 brew install aria2
+brew install httpie
