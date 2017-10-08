@@ -10,3 +10,5 @@ sphinxcontrib_ansibleautodoc \
 ansible-review \
 ansible-tower-cli \
 
+
+brew install aria2
