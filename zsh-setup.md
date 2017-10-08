@@ -66,5 +66,8 @@ source /Users/me/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 antigen theme eendroroy/alien alien
 https://github.com/eendroroy/alien
 
+antigen theme https://github.com/caiogondim/bullet-train-oh-my-zsh-theme bullet-train
+https://github.com/caiogondim/bullet-train.zsh
+
 # Install Hacck-Nerd Fonts
 brew cask install font-hack-nerd-font
