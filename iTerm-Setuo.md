@@ -71,3 +71,6 @@ https://github.com/caiogondim/bullet-train.zsh
 
 # Install Hacck-Nerd Fonts
 brew cask install font-hack-nerd-font
+
+# iTerm Themes
+https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme
