@@ -70,6 +70,7 @@ antigen theme https://github.com/caiogondim/bullet-train-oh-my-zsh-theme bullet-
 https://github.com/caiogondim/bullet-train.zsh
 
 # Install Hacck-Nerd Fonts
+brew tap caskroom/fonts
 brew cask install font-hack-nerd-font
 
 # iTerm Themes
