@@ -75,3 +75,18 @@ brew cask install font-hack-nerd-font
 
 # iTerm Themes
 https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme
+
+# Install colorls 
+`gem install colorls`
+
+add alias to zshrc 
+`alias ls='colorls'`
+`source $(dirname $(gem which colorls))/tab_complete.sh`
+
+
+## Install ttyd
+`brew install ttyd`
+
+
+## Install Keep
+`brew install keep`
