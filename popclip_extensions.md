@@ -1,3 +1,4 @@
+```bash
 wget https://pilotmoon.com/popclip/extensions/ext/Uppercase.popclipextz \
 && wget https://pilotmoon.com/popclip/extensions/ext/Lowercase.popclipextz \
 && wget https://pilotmoon.com/popclip/extensions/ext/Capitalize.popclipextz \
@@ -13,3 +14,4 @@ wget https://pilotmoon.com/popclip/extensions/ext/Uppercase.popclipextz \
 && wget https://pilotmoon.com/popclip/extensions/ext/CopyAsMarkdown.popclipextz
 
 open *.popclipextz
+```
